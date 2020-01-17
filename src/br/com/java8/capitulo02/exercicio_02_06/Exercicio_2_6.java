@@ -1,4 +1,4 @@
-package br.com.java8.capitulo2.exercicio2_6;
+package br.com.java8.capitulo02.exercicio_02_06;
 
 import java.util.Scanner;
 

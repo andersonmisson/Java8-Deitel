@@ -1,4 +1,4 @@
-package br.com.java8.capitulo2.exemplo2_7;
+package br.com.java8.capitulo02.exemplo_02_07;
 
 import java.util.Scanner; // Programa ultiliza a classe Scanner
 

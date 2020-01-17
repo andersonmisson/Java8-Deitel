@@ -1,4 +1,4 @@
-package br.com.java8.capitulo2.exemplo2_1;
+package br.com.java8.capitulo02.exemplo_02_01;
 
 // Figura 2.1: Welcome1.java
 // Programa De Impressão de Texto

@@ -1,4 +1,4 @@
-package br.com.java8.capitulo2.exemplo2_4;
+package br.com.java8.capitulo02.exemplo_02_04;
 
 // Figura 2.4: Welcome3.java
 // Imprimindo múltiplas linhas de texto com uma única instrução.

@@ -1,4 +1,4 @@
-package br.com.java8.capitulo2.exemplo2_6;
+package br.com.java8.capitulo02.exemplo_02_06;
 
 // Figura 2.6: Welcome4.java
 // Exibindo múltiplas linhas com o método System.out.printf.
