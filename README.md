@@ -13,5 +13,6 @@
     <li>Exercício 02.06</li>
     <li>Exercício 02.15 - Aritimética</li>
     <li>Exercício 02.16 - Comparação De Inteiros</li>
-    <li>Exercício 02.17 - Aritimérica, Maior, Menor</li>
+    <li>Exercício 02.17 - Aritmética, Maior, Menor</li>
+    <li>Exercício 02.18 - Desenhando: Uma Caixa, Uma Elipse, Uma Seta e um Losango</li> 
 </ul>
