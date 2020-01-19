@@ -26,4 +26,5 @@
     <li> Exercício 02.27 - Desenhando Tabuleiro de Damas </li>
     <li> Exercício 02.28 - Diâmentro, Circunferência, Área do Círculo </li>
     <li> Exercício 02.29 - Valor Inteiro de Um Caractere </li>
+    <li> Exercício 02.30 - Separando os dígitos em um inteiro </li>
 </ul>
