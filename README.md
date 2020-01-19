@@ -23,4 +23,5 @@
     <li> Exercício 02.24 - Maior, Menor Com Cinco Números </li>
     <li> Exercício 02.25 - Par ou Ímpar </li>
     <li> Exercício 02.26 - Múltiplos </li>
+    <li> Exercício 02.27 - Desenhando Tabuleiro de Damas </li>
 </ul>
