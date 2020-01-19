@@ -1,7 +1,7 @@
 # Java 8 - Como Programar - Deitel<br>
 <p>Estudando Java 8 através do Livro Deitel</p>
 
-## Capitulo 02
+## Capítulo 02
 
 <ul>
     <li> Exemplo 02.01 </li>
@@ -21,4 +21,5 @@
     <li> Exercício 02.22 - Desenhando: Parte 5 </li>
     <li> Exercício 02.23 - Desenhando: Parte 6 </li>
     <li> Exercício 02.24 - Maior, Menor Com Cinco Números </li>
+    <li> Exercício 02.25 - Par ou Ímpar </li>
 </ul>
