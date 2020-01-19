@@ -27,4 +27,5 @@
     <li> Exercício 02.28 - Diâmentro, Circunferência, Área do Círculo </li>
     <li> Exercício 02.29 - Valor Inteiro de Um Caractere </li>
     <li> Exercício 02.30 - Separando os dígitos em um inteiro </li>
+    <li> Exercício 02.31 - Número, Quadrado, Cubo </li>
 </ul>
