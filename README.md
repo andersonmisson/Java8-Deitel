@@ -15,5 +15,6 @@
     <li>Exercício 02.16 - Comparação De Inteiros</li>
     <li>Exercício 02.17 - Aritmética, Maior, Menor</li>
     <li>Exercício 02.18 - Desenhando: Uma Caixa, Uma Elipse, Uma Seta e um Losango</li>
-    <l1>Exercício 02.19 - Desenhando: Parte 2
+    <l1>Exercício 02.19 - Desenhando: Parte 2</li>
+    <l1>Exercício 02.20 - Desenhando: Parte 3</li>
 </ul>
