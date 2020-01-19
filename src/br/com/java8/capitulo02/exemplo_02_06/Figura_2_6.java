@@ -1,5 +1,7 @@
 package br.com.java8.capitulo02.exemplo_02_06;
 
+//Autor: Anderson Misson
+
 // Figura 2.6: Welcome4.java
 // Exibindo múltiplas linhas com o método System.out.printf.
 public class Figura_2_6 {

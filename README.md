@@ -31,4 +31,5 @@
     <li> Exercício 02.32 - Contagem, Positivos e Negativos </li>
     <li> Exercício 02.33 - IMC versão 1 </li>
     <li> Exercício 02.34 - Calculadora De Crescimento Demográfico Mundial</li>
+    <li> Exercício 02.35 - Faixa Solidária </li>
 </ul>

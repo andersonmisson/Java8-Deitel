@@ -1,5 +1,7 @@
 package br.com.java8.capitulo02.exemplo_02_15;
 
+//Autor: Anderson Misson
+
 import java.util.Scanner;
 
 // Figura 2.15: Comparação.java

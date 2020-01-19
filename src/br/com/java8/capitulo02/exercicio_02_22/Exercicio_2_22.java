@@ -1,5 +1,7 @@
 package br.com.java8.capitulo02.exercicio_02_22;
 
+//Autor: Anderson Misson
+
 public class Exercicio_2_22 {
 
 	public static void main(String[] args) {

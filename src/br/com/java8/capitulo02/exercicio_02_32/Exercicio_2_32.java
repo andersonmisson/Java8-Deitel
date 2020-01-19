@@ -1,5 +1,7 @@
 package br.com.java8.capitulo02.exercicio_02_32;
 
+//Autor: Anderson Misson
+
 import java.util.Scanner;
 
 public class Exercicio_2_32 {

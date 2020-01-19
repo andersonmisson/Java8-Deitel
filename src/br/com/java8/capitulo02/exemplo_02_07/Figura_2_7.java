@@ -1,5 +1,7 @@
 package br.com.java8.capitulo02.exemplo_02_07;
 
+//Autor: Anderson Misson
+
 import java.util.Scanner; // Programa ultiliza a classe Scanner
 
 // Figura 2.7: Adição.java

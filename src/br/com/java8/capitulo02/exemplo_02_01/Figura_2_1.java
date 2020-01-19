@@ -1,5 +1,7 @@
 package br.com.java8.capitulo02.exemplo_02_01;
 
+// Autor: Anderson Misson
+
 // Figura 2.1: Welcome1.java
 // Programa De Impressão de Texto
 

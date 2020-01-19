@@ -1,5 +1,7 @@
 package br.com.java8.capitulo02.exercicio_02_06;
 
+//Autor: Anderson Misson
+
 import java.util.Scanner;
 
 // Exercício 2.6: Produto.java
