@@ -25,4 +25,5 @@
     <li> Exercício 02.26 - Múltiplos </li>
     <li> Exercício 02.27 - Desenhando Tabuleiro de Damas </li>
     <li> Exercício 02.28 - Diâmentro, Circunferência, Área do Círculo </li>
+    <li> Exercício 02.29 - Valor Inteiro de Um Caractere </li>
 </ul>
