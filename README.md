@@ -28,4 +28,5 @@
     <li> Exercício 02.29 - Valor Inteiro de Um Caractere </li>
     <li> Exercício 02.30 - Separando os dígitos em um inteiro </li>
     <li> Exercício 02.31 - Número, Quadrado, Cubo </li>
+    <li> Exercício 02.32 - Contagem, Positivos e Negativos </li>
 </ul>
