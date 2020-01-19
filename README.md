@@ -20,4 +20,5 @@
     <li> Exercício 02.21 - Desenhando: Parte 4 </li>
     <li> Exercício 02.22 - Desenhando: Parte 5 </li>
     <li> Exercício 02.23 - Desenhando: Parte 6 </li>
+    <li> Exercício 02.24 - Maior, Menor Com Cinco Números </li>
 </ul>
