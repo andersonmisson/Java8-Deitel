@@ -33,3 +33,10 @@
     <li> Exercício 02.34 - Calculadora De Crescimento Demográfico Mundial</li>
     <li> Exercício 02.35 - Faixa Solidária </li>
 </ul>
+
+## Capítulo 03
+
+<ul>
+	<li> Exemplo 03.01 - Classe Account </li>
+	<li> Exemplo 03.02 - Classe myAccount </li>
+</ul>
