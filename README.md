@@ -39,4 +39,5 @@
 <ul>
 	<li> Exemplo 03.01 - Classe Account </li>
 	<li> Exemplo 03.02 - Classe myAccount </li>
+	<li> Exemplo 03.05 - Classe Account Com Construtor</li>
 </ul>
