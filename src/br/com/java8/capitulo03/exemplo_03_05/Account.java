@@ -2,7 +2,7 @@ package br.com.java8.capitulo03.exemplo_03_05;
 
 // Autor: Anderson Misson
 
-// Figura 3.1: Account.java
+// Figura 3.5: Account.java
 // Classe Account que contém uma variável de instância name
 // e métodos para configurar e obter seu valor
 
@@ -11,7 +11,7 @@ public class Account {
 	private String name; // Variável de instância.
 
 	// O Construtor inicializa name com nome do parâmetro
-	public Account(String nome) {
+	public Account(String name) {
 		this.name = name;
 	}
 
