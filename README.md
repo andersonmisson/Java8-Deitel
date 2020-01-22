@@ -52,4 +52,5 @@
 	<li> Exemplo 03.08 - Double e Contrutores</li>
 	<li> Exemplo 03.09 - Double e Contrutores Testes</li>
 	<li> Exemplo 03.12 - Caixa de Diálogo Com Swing (JOptionPane)</li>
+	<li> Exemplo 03.13 - Inserir nome na Caixa de Diálogo</li>
 </ul>
