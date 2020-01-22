@@ -40,4 +40,6 @@
 	<li> Exemplo 03.01 - Classe Account </li>
 	<li> Exemplo 03.02 - Classe myAccount </li>
 	<li> Exemplo 03.05 - Classe Account Com Construtor</li>
+	<li> Exemplo 03.06 - Continuando Construtores</li>
+	<li> Exemplo 03.08 - Double e Contrutores</li>
 </ul>
