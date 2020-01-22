@@ -1,6 +1,14 @@
 # Java 8 - Como Programar - Deitel<br>
 <p>Estudando Java 8 através do Livro Deitel</p>
 
+## Ferramentas
+
+<ul>
+	<li type = "square"> S.O: Ubuntu 18.04 / Windows 10</li>
+	<li type = "square"> Eclipse </li>
+
+</ul>
+
 ## Capítulo 02
 
 <ul>
@@ -42,4 +50,5 @@
 	<li> Exemplo 03.05 - Classe Account Com Construtor</li>
 	<li> Exemplo 03.06 - Continuando Construtores</li>
 	<li> Exemplo 03.08 - Double e Contrutores</li>
+	<li> Exemplo 03.09 - Double e Contrutores Testes</li>
 </ul>
