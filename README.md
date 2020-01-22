@@ -51,4 +51,5 @@
 	<li> Exemplo 03.06 - Continuando Construtores</li>
 	<li> Exemplo 03.08 - Double e Contrutores</li>
 	<li> Exemplo 03.09 - Double e Contrutores Testes</li>
+	<li> Exemplo 03.12 - Caixa de Diálogo Com Swing (JOptionPane)</li>
 </ul>
