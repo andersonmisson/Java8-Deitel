@@ -47,17 +47,23 @@
 <ul>
 	<li> Exemplo 03.01 - Classe Account </li>
 	<li> Exemplo 03.02 - Classe myAccount </li>
-	<li> Exemplo 03.05 - Classe Account Com Construtor</li>
-	<li> Exemplo 03.06 - Continuando Construtores</li>
-	<li> Exemplo 03.08 - Double e Contrutores</li>
-	<li> Exemplo 03.09 - Double e Contrutores Testes</li>
-	<li> Exemplo 03.12 - Caixa de Diálogo Com Swing (JOptionPane)</li>
-	<li> Exemplo 03.13 - Inserir nome na Caixa de Diálogo</li>
-	<li> Exercício 03.01 - Criar uma Soma Com a Caixa de Diálogo</li>
-	<li> Exercício 03.11 - Criar Classe Conta</li>
-	<li> Exercício 03.12 - Criar Classe Fatura</li>
-	<li> Exercício 03.13 - Criar Classe Empregado</li>
-	<li> Exercício 03.14 - Criar Classe Data</li>
-	<li> Exercício 03.16 - Criar Calculadora Cardiaca</li>
-	<li> Exercício 03.17 - Criar Calculadora Cardiaca Com IMC</li>
+	<li> Exemplo 03.05 - Classe Account Com Construtor </li>
+	<li> Exemplo 03.06 - Continuando Construtores </li>
+	<li> Exemplo 03.08 - Double e Contrutores </li>
+	<li> Exemplo 03.09 - Double e Contrutores Testes </li>
+	<li> Exemplo 03.12 - Caixa de Diálogo Com Swing (JOptionPane) </li>
+	<li> Exemplo 03.13 - Inserir nome na Caixa de Diálogo </li>
+	<li> Exercício 03.01 - Criar uma Soma Com a Caixa de Diálogo </li>
+	<li> Exercício 03.11 - Criar Classe Conta </li>
+	<li> Exercício 03.12 - Criar Classe Fatura </li>
+	<li> Exercício 03.13 - Criar Classe Empregado </li>
+	<li> Exercício 03.14 - Criar Classe Data </li>
+	<li> Exercício 03.16 - Criar Calculadora Cardiaca </li>
+	<li> Exercício 03.17 - Criar Calculadora Cardiaca Com IMC </li>
+</ul>
+
+## Capítulo 04
+
+<ul>
+	<li> Exemplo 04.04 - Estudante Media </li>
 </ul>
