@@ -54,4 +54,5 @@
 	<li> Exemplo 03.12 - Caixa de Diálogo Com Swing (JOptionPane)</li>
 	<li> Exemplo 03.13 - Inserir nome na Caixa de Diálogo</li>
 	<li> Exercício 03.01 - Criar uma Soma Com a Caixa de Diálogo</li>
+	<li> Exercício 03.11 - Criar Classe Conta</li>
 </ul>
