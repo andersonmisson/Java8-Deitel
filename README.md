@@ -58,4 +58,6 @@
 	<li> Exercício 03.12 - Criar Classe Fatura</li>
 	<li> Exercício 03.13 - Criar Classe Empregado</li>
 	<li> Exercício 03.14 - Criar Classe Data</li>
+	<li> Exercício 03.16 - Criar Calculadora Cardiaca</li>
+	<li> Exercício 03.17 - Criar Calculadora Cardiaca Com IMC</li>
 </ul>
