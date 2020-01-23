@@ -56,4 +56,5 @@
 	<li> Exercício 03.01 - Criar uma Soma Com a Caixa de Diálogo</li>
 	<li> Exercício 03.11 - Criar Classe Conta</li>
 	<li> Exercício 03.12 - Criar Classe Fatura</li>
+	<li> Exercício 03.13 - Criar Classe Empregado</li>
 </ul>
