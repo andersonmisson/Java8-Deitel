@@ -66,4 +66,5 @@
 
 <ul>
 	<li> Exemplo 04.04 - Estudante Media </li>
+	<li> Exemplo 04.08 - Estudante Media com While </li>
 </ul>
