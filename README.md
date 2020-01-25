@@ -67,5 +67,6 @@
 <ul>
 	<li> Exemplo 04.04 - Estudante Média </li>
 	<li> Exemplo 04.08 - Estudante Média com While </li>
-	<l1> Exemplo 04.10 - ClassAverage</li>
+	<li> Exemplo 04.10 - ClassAverage </li>
+	<li> Exemplo 04.12 - Analysis </li>
 </ul>
