@@ -70,4 +70,5 @@
 	<li> Exemplo 04.10 - ClassAverage </li>
 	<li> Exemplo 04.12 - Analysis </li>
 	<li> Exemplo 04.15 - Pré-Incremento e Pós-Incremento </li>
+	<li> Exemplo 04.18 - DrawPanel </li>
 </ul>
