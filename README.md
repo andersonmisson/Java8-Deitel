@@ -65,6 +65,7 @@
 ## Capítulo 04
 
 <ul>
-	<li> Exemplo 04.04 - Estudante Media </li>
-	<li> Exemplo 04.08 - Estudante Media com While </li>
+	<li> Exemplo 04.04 - Estudante Média </li>
+	<li> Exemplo 04.08 - Estudante Média com While </li>
+	<l1> Exemplo 04.10 - ClassAverage</li>
 </ul>
