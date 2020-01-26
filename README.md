@@ -75,4 +75,5 @@
 	<li> Exercício 04.01 B - Desenhando GUI </li>
 	<li> Exercício 04.02 A - Desenhando GUI </li>
 	<li> Exercício 04.02 B - Desenhando GUI </li>
+	<li> Exercício 04.06 - Calculando While </li>
 </ul>
