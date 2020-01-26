@@ -73,4 +73,5 @@
 	<li> Exemplo 04.18 - DrawPanel </li>
 	<li> Exercício 04.01 A - Desenhando GUI </li>
 	<li> Exercício 04.01 B - Desenhando GUI </li>
+	<li> Exercício 04.02 A - Desenhando GUI </li>
 </ul>
