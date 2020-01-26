@@ -77,4 +77,5 @@
 	<li> Exercício 04.02 B - Desenhando GUI </li>
 	<li> Exercício 04.06 - Calculando While </li>
 	<li> Exercício 04.16 - Cálculo Mistério </li>
+	<li> Exercício 04.17 - Quilômetro Por Litro </li>
 </ul>
