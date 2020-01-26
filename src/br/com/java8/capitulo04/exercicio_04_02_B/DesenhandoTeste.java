@@ -1,7 +1,7 @@
-package br.com.java8.capitulo04.exercicio_04_02_A;
+package br.com.java8.capitulo04.exercicio_04_02_B;
 
 //Autor: Anderson Misson
-//Exercicio 04_02_A - Desenhando.java
+//Exercicio 04_02_B - Desenhando.java
 
 import javax.swing.JFrame;
 

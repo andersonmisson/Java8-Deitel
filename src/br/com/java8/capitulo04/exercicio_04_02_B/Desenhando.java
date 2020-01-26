@@ -1,7 +1,7 @@
-package br.com.java8.capitulo04.exercicio_04_02_A;
+package br.com.java8.capitulo04.exercicio_04_02_B;
 
 // Autor: Anderson Misson
-// Exercicio 04_02_A - Desenhando.java
+// Exercicio 04_02_B - Desenhando.java
 
 import java.awt.Graphics;
 
@@ -22,7 +22,10 @@ public class Desenhando extends JPanel {
 		while (altura >= 0) {
 
 			g.drawLine(0, getHeight() - altura, largura, getHeight());
-						
+			g.drawLine(getWidth() - largura, 0, getWidth(), altura);
+			g.drawLine(getWidth(), getHeight() - altura, getWidth() - largura, getHeight());
+			g.drawLine(0, altura, largura, 0);
+
 			largura = largura + passosLargura;
 			altura = altura - passosAltura;
 
