@@ -79,4 +79,5 @@
 	<li> Exercício 04.16 - Cálculo Mistério </li>
 	<li> Exercício 04.17 - Quilômetro Por Litro </li>
 	<li> Exercício 04.18 - Limite de Crédito </li>
+	<li> Exercício 04.19 - Comissão De Vendas </li>
 </ul>
