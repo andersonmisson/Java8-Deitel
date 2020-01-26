@@ -76,4 +76,5 @@
 	<li> Exercício 04.02 A - Desenhando GUI </li>
 	<li> Exercício 04.02 B - Desenhando GUI </li>
 	<li> Exercício 04.06 - Calculando While </li>
+	<li> Exercício 04.16 - Cálculo Mistério </li>
 </ul>
