@@ -84,4 +84,5 @@
 	<li> Exercício 04.21 - Maior Número </li>
 	<li> Exercício 04.22 - Tabela Formatada </li>
 	<li> Exercício 04.23 - Dois Números Maiores </li>
+	<li> Exercício 04.24 - Validando </li>
 </ul>
