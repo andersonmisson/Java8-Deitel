@@ -85,4 +85,5 @@
 	<li> Exercício 04.22 - Tabela Formatada </li>
 	<li> Exercício 04.23 - Dois Números Maiores </li>
 	<li> Exercício 04.24 - Validando </li>
+	<li> Exercício 04.25 - Misterio 2 </li>
 </ul>
