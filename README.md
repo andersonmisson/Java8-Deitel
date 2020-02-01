@@ -88,4 +88,5 @@
 	<li> Exercício 04.25 - Mistério 2 </li>
 	<li> Exercício 04.26 - Mistério 3 </li>
 	<li> Exercício 04.29 - Quadrado De Asteriscos </li>
+	<li> Exercício 04.30 - Palíndromos </li>	
 </ul>
