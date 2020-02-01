@@ -89,4 +89,5 @@
 	<li> Exercício 04.26 - Mistério 3 </li>
 	<li> Exercício 04.29 - Quadrado De Asteriscos </li>
 	<li> Exercício 04.30 - Palíndromos </li>	
+	<li> Exercício 04.31 - Decimal Para Binário </li>	
 </ul>
