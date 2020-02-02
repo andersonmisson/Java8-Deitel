@@ -94,5 +94,6 @@
 	<li> Exercício 04.33 - Loop Infinito </li>	
 	<li> Exercício 04.35 - Lados De Um Triângulo </li>
 	<li> Exercício 04.37a - Fatorial 1 </li>
-	<li> Exercício 04.37b - Fatorial 2 </li>			
+	<li> Exercício 04.37b - Fatorial 2 </li>
+	<li> Exercício 04.37c - Fatorial 3 </li>			
 </ul>
