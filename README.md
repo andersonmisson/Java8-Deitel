@@ -90,5 +90,6 @@
 	<li> Exercício 04.29 - Quadrado De Asteriscos </li>
 	<li> Exercício 04.30 - Palíndromos </li>	
 	<li> Exercício 04.31 - Decimal Para Binário </li>	
-	<li> Exercício 04.32 - Tabuleiro de Damas </li>	
+	<li> Exercício 04.32 - Tabuleiro de Damas </li>
+	<li> Exercício 04.32 - Loop Infinito </li>		
 </ul>
