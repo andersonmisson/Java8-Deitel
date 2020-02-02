@@ -92,5 +92,6 @@
 	<li> Exercício 04.31 - Decimal Para Binário </li>	
 	<li> Exercício 04.32 - Tabuleiro de Damas </li>
 	<li> Exercício 04.33 - Loop Infinito </li>	
-	<li> Exercício 04.35 - Lados De Um Triângulo </li>		
+	<li> Exercício 04.35 - Lados De Um Triângulo </li>
+	<li> Exercício 04.37a - Fatorial 1 </li>		
 </ul>
