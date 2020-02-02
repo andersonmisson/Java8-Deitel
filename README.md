@@ -9,7 +9,7 @@
 
 </ul>
 
-## Capítulo 02
+### Capítulo 02
 
 <ul>
     <li> Exemplo 02.01 </li>
@@ -42,7 +42,7 @@
     <li> Exercício 02.35 - Faixa Solidária </li>
 </ul>
 
-## Capítulo 03
+### Capítulo 03
 
 <ul>
 	<li> Exemplo 03.01 - Classe Account </li>
@@ -62,7 +62,7 @@
 	<li> Exercício 03.17 - Criar Calculadora Cardiaca Com IMC </li>
 </ul>
 
-## Capítulo 04
+### Capítulo 04
 
 <ul>
 	<li> Exemplo 04.04 - Estudante Média </li>
@@ -97,4 +97,10 @@
 	<li> Exercício 04.37b - Fatorial 2 </li>
 	<li> Exercício 04.37c - Fatorial 3 </li>
 	<li> Exercício 04.38 - Criptografar e Descriptografar </li>			
+</ul>
+
+### Capítulo 05
+
+<ul>
+	<li> Exemplo 05.01 - WhileCounter </li>
 </ul>
