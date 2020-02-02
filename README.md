@@ -91,5 +91,6 @@
 	<li> Exercício 04.30 - Palíndromos </li>	
 	<li> Exercício 04.31 - Decimal Para Binário </li>	
 	<li> Exercício 04.32 - Tabuleiro de Damas </li>
-	<li> Exercício 04.32 - Loop Infinito </li>		
+	<li> Exercício 04.33 - Loop Infinito </li>	
+	<li> Exercício 04.35 - Lados De Um Triângulo </li>		
 </ul>
