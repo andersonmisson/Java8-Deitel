@@ -107,4 +107,5 @@
 	<li> Exemplo 05.05 - Soma com For </li>
 	<li> Exemplo 05.06 - Juros com For </li>
 	<li> Exemplo 05.07 - Do...While </li>
+	<li> Exemplo 05.09 - Relatório de Notas </li>
 </ul>
