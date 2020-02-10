@@ -106,4 +106,5 @@
 	<li> Exemplo 05.02 - ForCounter </li>
 	<li> Exemplo 05.05 - Soma com For </li>
 	<li> Exemplo 05.06 - Juros com For </li>
+	<li> Exemplo 05.07 - Do...While </li>
 </ul>
