@@ -103,4 +103,5 @@
 
 <ul>
 	<li> Exemplo 05.01 - WhileCounter </li>
+	<li> Exemplo 05.02 - ForCounter </li>
 </ul>
