@@ -104,4 +104,5 @@
 <ul>
 	<li> Exemplo 05.01 - WhileCounter </li>
 	<li> Exemplo 05.02 - ForCounter </li>
+	<li> Exemplo 05.05 - Soma com For</li>
 </ul>
