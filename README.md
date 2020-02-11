@@ -111,4 +111,5 @@
 	<li> Exemplo 05.11 - Apólice De Seguro de Carros </li>
 	<li> Exemplo 05.13 - BreakTest, break no laço for </li>
 	<li> Exemplo 05.14 - ContinueTest, continue no laço for </li>
+	<li> Exemplo 05.19 - Operadores Lógicos </li>
 </ul>
