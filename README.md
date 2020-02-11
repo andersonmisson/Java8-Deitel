@@ -109,4 +109,5 @@
 	<li> Exemplo 05.07 - Do...While </li>
 	<li> Exemplo 05.09 - Relatório de Notas </li>
 	<li> Exemplo 05.11 - Apólice De Seguro de Carros </li>
+	<li> Exemplo 05.13 - BreakTest, break no laço for </li>
 </ul>
