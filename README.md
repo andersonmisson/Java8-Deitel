@@ -114,4 +114,5 @@
 	<li> Exemplo 05.19 - Operadores Lógicos </li>
 	<li> Exemplo 05.27 - Formas GUI </li>
 	<li> Exercício 05.01 - Formas GUI </li>
+	<li> Exercício 05.10 - Printing </li>
 </ul>
