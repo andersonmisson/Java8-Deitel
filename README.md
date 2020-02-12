@@ -113,4 +113,5 @@
 	<li> Exemplo 05.14 - ContinueTest, continue no laço for </li>
 	<li> Exemplo 05.19 - Operadores Lógicos </li>
 	<li> Exemplo 05.27 - Formas GUI </li>
+	<li> Exercício 05.01 - Formas GUI </li>
 </ul>
