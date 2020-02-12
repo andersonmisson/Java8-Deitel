@@ -112,4 +112,5 @@
 	<li> Exemplo 05.13 - BreakTest, break no laço for </li>
 	<li> Exemplo 05.14 - ContinueTest, continue no laço for </li>
 	<li> Exemplo 05.19 - Operadores Lógicos </li>
+	<li> Exemplo 05.27 - Formas GUI </li>
 </ul>
