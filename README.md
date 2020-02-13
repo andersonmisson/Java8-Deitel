@@ -115,4 +115,5 @@
 	<li> Exemplo 05.27 - Formas GUI </li>
 	<li> Exercício 05.01 - Formas GUI </li>
 	<li> Exercício 05.10 - Printing </li>
+	<li> Exercício 05.11 - Localisar Menor Número </li>
 </ul>
