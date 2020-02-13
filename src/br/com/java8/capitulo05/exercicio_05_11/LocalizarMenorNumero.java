@@ -1,5 +1,8 @@
 package br.com.java8.capitulo05.exercicio_05_11;
 
+//Autor: Anderson Misson
+//Exercício 05.11: LocalizandoMenorNumero.java
+
 import java.util.Scanner;
 
 public class LocalizarMenorNumero {
