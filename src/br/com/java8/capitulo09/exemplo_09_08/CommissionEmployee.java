@@ -6,11 +6,11 @@ package br.com.java8.capitulo09.exemplo_09_08;
 
 public class CommissionEmployee {
 
-	private final String firstName;
-	private final String lastName;
-	private final String socialSecurityNumber;
-	private double grossSales; // Vendas brutas semanais
-	private double commissionRate; // porcentagem da comissão
+	protected final String firstName;
+	protected final String lastName;
+	protected final String socialSecurityNumber;
+	protected double grossSales; // Vendas brutas semanais
+	protected double commissionRate; // porcentagem da comissão
 	
 	
 	public CommissionEmployee(String firstName, String lastName, String socialSecurityNumber, double grossSales,
